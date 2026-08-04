@@ -64,8 +64,6 @@ My repositories also include:
 
 <div align="center">
 
-### Build the system. Understand the data. Make the interface feel simple.
-
 [![GitHub](https://img.shields.io/badge/GitHub-@MarulCristi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarulCristi)
 
 </div>
